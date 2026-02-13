@@ -17,5 +17,5 @@ This repository implements and evaluates advanced Sentiment Analysis and Sarcasm
 |   |   ├── train_augmented_BT-LLM.csv # training dataset augmented with back-translation strategy
 |   |   ├── train_augmented_Swap.csv   # training dataset augmented with synonym replacement strategy
 ├── BERT/    # contains all the BERT extensions and baseline source code
-├── Mistral/ # contains all the Mistral extensions and baseline source code
+├── Mistral/ # contains all the Mistral extensions, requirements and baseline source code
 ```
