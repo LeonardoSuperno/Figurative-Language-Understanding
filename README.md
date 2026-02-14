@@ -1,6 +1,6 @@
 # Figurative-Language-Understanding
 
-The official repository for the project of Deep Natural Language Processing 2025/2026, group 25: "Transformers".
+The official repository for the project of Deep Natural Language Processing 2025/2026, group 23: "Transformers".
 
 ## About our work
 
